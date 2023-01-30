@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\bin\Debug\net6.0-windows\LAB04.exe
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\bin\Debug\net6.0-windows\LAB04.deps.json
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\bin\Debug\net6.0-windows\LAB04.runtimeconfig.json
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\bin\Debug\net6.0-windows\LAB04.dll
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\bin\Debug\net6.0-windows\LAB04.pdb
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.Form1.resources
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.dll
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\refint\LAB04.dll
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.pdb
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\LAB04.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\งาน\Visual Studio\LAB04\obj\Debug\net6.0-windows\ref\LAB04.dll
